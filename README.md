@@ -1,3 +1,42 @@
+
+
+# React Chart Project
+
+## Overview
+This project is a React application that displays charts using the Chart.js library. It includes features such as timeframe selection (daily, weekly, monthly, yearly), data zooming, and data point details display.
+
+## Project Structure
+The project is organized into the following folders:
+- `components`: Contains all the React components.
+- `data`: Contains JSON data or data fetching utilities.
+
+## Features
+- **Chart Display**: Displays charts with various timeframes.
+- **Timeframe Selection**: Switch between daily, weekly, monthly, and yearly views.
+- **Data Zooming**: Zoom in/out on specific time periods.
+- **Data Point Details**: Click event handlers to display details of the clicked data point.
+- **Export Chart**: Export the chart as PNG format.
+
+## Setup and Installation
+To set up and run the project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone <repository_url>
+   cd react-chart-project
+
+2. Install dependencies:
+   npm install
+
+3. Start the development server:
+   npm start
+
+4. Open the application in your browser:
+   http://localhost:3000
+   
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
